@@ -209,6 +209,12 @@ h2{
 #ratings{
     display: flex;
     justify-content: space-between;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    height: auto;
+    width: auto;
+    margin: 20px;
+    border: 20px;
 }
 .star{
   background-color: tomato;
@@ -216,6 +222,22 @@ h2{
 .text{
     font-weight: bold;
     font-size: x-large;
+}
+.Rebecca{
+    justify-content: space-evenly;
+    border: 100px;
+    box-shadow: 5px 5px 2px grey;
+
+}
+.John{
+    justify-content: space-evenly;
+    border: 100px;
+    box-shadow: 5px 5px 2px grey;
+}
+.Lavinton{
+    justify-content: space-evenly;
+    border: 100px;
+    box-shadow: 5px 5px 2px grey;
 }
 .reviews{
     background-color: black;
@@ -257,9 +279,7 @@ h2{
     
     
 }
-#quality{
-    
-}
+
 
 .rights{
     position: absolute;
