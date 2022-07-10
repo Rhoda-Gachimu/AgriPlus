@@ -9,14 +9,25 @@ body{
 header{
     background-color: black;
     color:#ffffff;
-    display:flex;
     padding: 10px 50px;
     padding: 10px 30px;
-    justify-content: space-between;
+    
     
     
 }
-
+.navigation{
+    display: flex;
+    justify-content: space-between;
+}
+#plus{
+    font-weight: bold;
+}
+#start{
+    background-color: tomato;
+}
+.fruits{
+    float: right;
+}
 
     
 
@@ -24,7 +35,49 @@ header{
     background-image: url(/assets/Images/image\ 1.png);
     background-position: center;
     background-size: contain;
+    height: 400px;
+    max-width: none;
     
+}
+.benefits{
+    display: flex;
+    text-shadow: #fff;
+    margin-right: 100px;
+    padding: 80px;
+    border-style: solid;
+    border-top: #fff 100px;
+    border-color: black;
+    justify-content: space-evenly;
+    border: 100px;
+    box-shadow: 5px 5px 2px grey;
+
+}
+#exist{
+    text-align: left;
+    padding-top: 50px;
+}
+.info{
+    text-align: justify;
+    font-size: xx-large;
+}
+#explore{
+    background-color: tomato;
+    padding: 20px;
+}
+
+.exist{
+    
+    
+}
+.image3{
+    float: right;
+    
+    
+}
+#built{
+position: relative;
+float: left;
+
 }
 
 .popular{
