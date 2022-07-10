@@ -20,3 +20,8 @@ header{
     background-size: contain;
     
 }
+.reviews{
+    background-color: black;
+    color: #fff;
+    text-align: center;
+}
