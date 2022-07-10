@@ -8,7 +8,13 @@ body{
 
 header{
     background-color: black;
-    color:#fff;
+    color:#ffffff;
+    display:flex;
+    padding: 10px 50px;
+    padding: 10px 30px;
+    justify-content: space-between;
+    
+    
 }
 
 
@@ -20,8 +26,71 @@ header{
     background-size: contain;
     
 }
+.exist{
+
+    float: left;
+}
+h2{
+    text-align: center;
+}
+#built{
+    float:right;
+}
+
+
 .reviews{
     background-color: black;
     color: #fff;
     text-align: center;
+    padding: 10px;
+}
+
+.footer{
+    background-color: black;
+    color: #fff;
+    border-radius: 0%;
+    height: 400px;
+    
+    display:grid;
+    display: flex;
+    justify-content:space-evenly;
+    border-bottom: 200;
+    margin-top: 0.5px;  
+    margin-bottom: 0.5px;
+    border-bottom:1px solid black;
+    padding-bottom: 10px;
+}
+#others{
+    font-weight: bold;
+  
+    
+
+}
+#products{
+    font-weight: bold;
+   
+}
+#Company{
+    font-weight: bold;
+}
+#agri{
+    font-weight: bold;
+    
+    
+}
+#quality{
+    
+}
+
+.rights{
+    position: absolute;
+    padding-top: 300px;
+    padding-bottom: 120px;
+    border-bottom: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    
+}
+#display{
+ background-color: orangered;
 }
