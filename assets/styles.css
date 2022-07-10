@@ -78,6 +78,50 @@ header{
 #fifty{
     font-weight: bold;
 }
+.Newest{
+    display: flex;
+      
+}
+.chicken{
+    margin: 20px;
+    text-align: center;
+}
+.rice{
+    margin: 20px;
+    text-align: center;
+}
+.mursik{
+    margin: 20px;
+    text-align: center;
+}
+.tomatoes{
+    margin: 20px;
+    text-align: center;
+}
+#chick{
+    font-weight: bold;
+}
+#seven{
+    font-weight: bold;
+}
+#Ahero{
+    font-weight: bold;
+}
+#r2{
+    font-weight: bold;
+}
+#mrsk{
+    font-weight: bold;
+}
+#mr2{
+    font-weight: bold;
+}
+#ft{
+    font-weight: bold;
+}
+#f5{
+    font-weight: bold;
+}
 .exist{
 
     float: left;
