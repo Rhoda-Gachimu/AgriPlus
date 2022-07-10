@@ -65,9 +65,11 @@ header{
     padding: 20px;
 }
 
-.exist{
-    
-    
+#beyond{
+    text-align: center;
+    font-family:'Poppins', 'Inter',sans-serif;
+    ;
+
 }
 .image3{
     float: right;
@@ -75,16 +77,25 @@ header{
     
 }
 #built{
-position: relative;
-float: left;
+margin: 20px;
+display: block;
+
+
 
 }
 
 .popular{
     display: flex;
     justify-content: space-evenly;
+    padding-top: 100px;
     
 }
+
+.pop{
+    text-align: left;
+}
+
+
 .carrot{
     margin:20px;
     text-align: center;
@@ -186,12 +197,15 @@ h2{
     float:right;
 }
 
-
+#see{
+    text-align: right;
+    font-weight: bold;
+}
 .reviews{
     background-color: black;
     color: #fff;
     text-align: center;
-    padding: 10px;
+    padding: 0px;
 }
 
 .footer{
