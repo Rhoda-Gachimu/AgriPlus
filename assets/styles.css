@@ -26,6 +26,58 @@ header{
     background-size: contain;
     
 }
+
+.popular{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.carrot{
+    margin:20px;
+    text-align: center;
+    
+    
+}
+.cereals{
+    margin: 20px;
+    text-align: center;
+    
+}
+.fish{
+    margin: 20px;
+    text-align: center;
+}
+
+.kales{
+    margin: 20px;
+    text-align: center;
+}
+
+#fc{
+    font-weight: bold;
+}
+#two{
+    font-weight: bold;
+}
+#cl{
+    font-weight: bold;
+}
+#thousand{
+    font-weight: bold;
+}
+#ff{
+    font-weight: bold;
+}
+#hundred{
+    font-weight: bold;
+}
+#ks{
+    font-weight: bold;
+
+}
+#fifty{
+    font-weight: bold;
+}
 .exist{
 
     float: left;
