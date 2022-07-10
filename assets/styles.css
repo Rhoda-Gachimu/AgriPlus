@@ -201,6 +201,22 @@ h2{
     text-align: right;
     font-weight: bold;
 }
+.customers{
+    text-align: left;
+    font-size: xx-large;
+    font-weight: bold;
+}
+#ratings{
+    display: flex;
+    justify-content: space-between;
+}
+.star{
+  background-color: tomato;
+}
+.text{
+    font-weight: bold;
+    font-size: x-large;
+}
 .reviews{
     background-color: black;
     color: #fff;
