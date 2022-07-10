@@ -201,6 +201,13 @@ h2{
     text-align: right;
     font-weight: bold;
 }
+#arrow{
+    float: right;
+    height: auto;
+    width: auto;
+    color: tomato;
+    
+}
 .customers{
     text-align: left;
     font-size: xx-large;
