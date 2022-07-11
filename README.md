@@ -15,7 +15,7 @@
  The landing page of an Agriculture website.
 
  
- ## Installation
+ ## program setup instructions
  
  ### Requirements
  
@@ -33,7 +33,8 @@
  
  ### Link to Github pages
  
- *https://rhoda-gachimu.github.io/Real-Estate/
+ 
+ https://rhoda-gachimu.github.io/AgriPlus/
  
  
  ## Licence
