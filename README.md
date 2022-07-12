@@ -15,7 +15,7 @@
  The landing page of an Agriculture website.
 
  
- ## Installation
+ ## program setup instructions
  
  ### Requirements
  
