@@ -32,12 +32,12 @@ header{
     
 
 .grass{
-    background-image: url(/assets/Images/image\ 1.png);
-    background-position: center;
-    background-size: contain;
-    height: 400px;
-    max-width: none;
-    
+    background-image: url(./assets/Images/image\ 1.png);
+    height: 80vh;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size:100% 100%;
+   
 }
 .benefits{
     display: flex;
