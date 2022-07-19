@@ -32,7 +32,7 @@ header{
     
 
 .grass{
-    background-image: url(./assets/Images/image\ 1.png);
+    background-image: url("../assets/Images/image\ 1.png");
     height: 80vh;
     background-repeat: no-repeat;
     /* background-position: center; */
@@ -312,3 +312,6 @@ h2{
 #display{
  background-color: orangered;
 }
+
+
+
